@@ -2,7 +2,7 @@
 An affordable arm prosthesis prototype <br />
 <br />
 The video of the prototype can be seen here:<br />
-<video src="[URL](https://github.com/berkyoskan/ROXARM/assets/70577497/383334f2-ae0c-4bc2-bc5c-45b336db2dd7)"></video><br />
+https://github.com/berkyoskan/ROXARM/assets/70577497/383334f2-ae0c-4bc2-bc5c-45b336db2dd7
 
 
 ![Roxarm](https://github.com/berkyoskan/ROXARM/assets/70577497/718499ea-58b2-4877-8519-3cb661ab9c99)
