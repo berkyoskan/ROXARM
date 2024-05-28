@@ -11,4 +11,5 @@ The electro-mechanical parts list: <br />
 5 x pressure sensors <br />
 5 x vibration motors <br />
 
-Resistors and wirirng can be found under schematic. 
+Resistors and wirirng can be found on circuit diagram down below. 
+![CircuitDiagram](https://github.com/berkyoskan/ROXARM/assets/70577497/6ec068e5-5040-421b-b9c6-13f8649e4922)
